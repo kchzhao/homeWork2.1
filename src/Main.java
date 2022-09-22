@@ -15,6 +15,5 @@ public class Main {
         System.out.println(dog - 3.5);
         System.out.println(cat);
         System.out.println(paper);
-
     }
 }
